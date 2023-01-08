@@ -1,2 +1,2 @@
 # React-Lab
-the experiments begins here
+The Experiments Begins Here
